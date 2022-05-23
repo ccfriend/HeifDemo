@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HeifDemo</string>
+    <string name="tab_text_1">Heif Show</string>
+    <string name="tab_text_2">Jpeg Show</string>
+    <string name="imageinfo">Image Information</string>
+    <string name="heic2jpg">Heic to JPEG</string>
+    <string name="jpg2heic">JPEG to HEIC</string>
+</resources>
